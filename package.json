@@ -1,0 +1,18 @@
+{
+  "name": "web-spider",
+  "version": "1.0.0",
+  "description": "Crawler.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "YYJ",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.3",
+    "superagent": "^3.8.3"
+  }
+}
